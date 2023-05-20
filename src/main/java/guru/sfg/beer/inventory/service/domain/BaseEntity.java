@@ -34,7 +34,6 @@ import java.util.UUID;
 
 @Setter
 @Getter
-@NoArgsConstructor
 @MappedSuperclass
 public class BaseEntity {
 
@@ -67,5 +66,8 @@ public class BaseEntity {
 
     public boolean isNew() {
         return this.id == null;
+    }
+
+    public BaseEntity() {
     }
 }
