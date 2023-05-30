@@ -1,4 +1,4 @@
-package com.bmc.sfg.common.events;
+package com.bmc.sfg.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

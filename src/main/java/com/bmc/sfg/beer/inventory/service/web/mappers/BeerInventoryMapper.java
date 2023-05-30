@@ -1,7 +1,7 @@
 package com.bmc.sfg.beer.inventory.service.web.mappers;
 
 import com.bmc.sfg.beer.inventory.service.domain.BeerInventory;
-import com.bmc.sfg.beer.inventory.service.web.model.BeerInventoryDto;
+import com.bmc.sfg.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

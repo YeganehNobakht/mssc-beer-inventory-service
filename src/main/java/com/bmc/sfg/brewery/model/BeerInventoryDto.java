@@ -1,4 +1,4 @@
-package com.bmc.sfg.beer.inventory.service.web.model;
+package com.bmc.sfg.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
